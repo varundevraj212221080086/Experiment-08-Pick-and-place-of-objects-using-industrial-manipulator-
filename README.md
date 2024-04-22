@@ -81,24 +81,32 @@ and click on the connect icon
 
 3. click on the 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### output video and screen shots of pick and place 
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/3af2f1a2-7b03-4418-8301-b02a1579caf9)
+
+
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/78a60926-291c-47e4-b64b-930ff5e00b0b)
+
+
+
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/c697ee98-d58f-4a8e-8b50-7facefcd3444)
+
+
+
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/fba3e2ec-4a9d-4add-a382-eeb5b6343eb6)
+
+
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/5e5f9a25-fb21-494c-9521-39dfb41e0cc8)
+
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/e8edcfb7-2915-4c3b-8040-4d3c9acd51df)
+
+
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/027566ae-5853-43c3-a987-287ee29aaad3)
+
+
+
+
+
 
 
 
@@ -108,7 +116,7 @@ and click on the connect icon
 
 ### Results: 
 
-
+Hence Pick and place of objects using industrial manipulator is executed successfully.
 
 
 
